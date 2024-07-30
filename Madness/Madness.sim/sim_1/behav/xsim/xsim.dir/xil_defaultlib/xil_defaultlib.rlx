@@ -1,0 +1,13 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1713918677,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Bracket.v,,clk_wiz_0,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1713918677,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Bracket.v,1714001165,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/RNG.v,,Bracket,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Main.v,1714001009,verilog,,,,Main,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/RNG.v,1714004939,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/SSDisplay.v,,RNG,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/SSDisplay.v,1714001015,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Winner.v,,SSDisplay,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Winner.v,1714003105,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/clockdivider.v,,Winner,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/clockdivider.v,1714001161,verilog,,C:/Users/ashol/OneDrive/Documents/ELEC 4200/Practice/Madness/Madness.srcs/sources_1/new/Main.v,,clockdivider,,,../../../../Madness.srcs/sources_1/ip/clk_wiz_0,,,,,
